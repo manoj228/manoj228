@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... 
@@ -10,7 +8,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ... DSA
 - 💬 Ask me about ... Anything related to Programming 
 - 📫 How to reach me: ... manoj22.be@gmail.com
-<!-
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
