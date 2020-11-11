@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... my DSA skills 
+- 🔭 I’m currently working on ... my DSA skills and Android side project
 - 🌱 I’m currently preparing ...  for interviews
 - 👯 I’m looking to collaborate on ... Data Structures and Algorithms and Android
 - 🤔 I’m looking for help with ... DSA
