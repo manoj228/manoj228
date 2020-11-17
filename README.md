@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
+My Current Profile:
 
 - 🔭 I’m currently working on ... DSA and Android side project
 - 🌱 I’m currently preparing ...  for interviews
