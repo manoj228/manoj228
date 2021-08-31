@@ -2,7 +2,7 @@
 
 My Current Profile:
 
-- 🔭 I’m currently working on ... TCS
+- 🔭 I’m currently working on ... Android
 - 🌱 I’m currently preparing ...  my DSA skills
 - 👯 I’m looking to collaborate on ... Data Structures and Algorithms and Android
 - 🤔 I’m looking for help with ... DSA
